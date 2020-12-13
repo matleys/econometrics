@@ -1,0 +1,12 @@
+ivgls                   Two-stage least squares with AR(_p_) error
+                        terms
+laggedResPlot           Plot residuals against lagged residuals
+robust                  OLS with robust standard errors
+runs                    Runs test for regression models
+stargazerIVgls          Create good-looking tables in Word for your IV
+                        gls output
+stargazerRegression     Create good-looking tables in Word for your
+                        regression output
+stargazerTable          Create good-looking tables in Word
+stargazerTest           Create good-looking tables in Word for your
+                        test results

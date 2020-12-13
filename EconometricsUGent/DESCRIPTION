@@ -1,0 +1,14 @@
+Package: EconometricsUGent
+Type: Package
+Title: Case Study Econometrics at Ghent University
+Version: 1.0
+Date: 2018-02-05
+Author: Alex Verhoijsen
+Maintainer: Alex Verhoijsen <Alex.Verhoijsen@UGent.be>
+Description: This package contains additional functions necessary to complete the case study for the econometrics course in the Bachelor of Economics and Business Engineering at Ghent University
+License: GPL (>=2)
+Depends: graphics, grDevices, stats, utils, lmtest, sandwich,
+        stargazer, R (>= 3.1.0)
+NeedsCompilation: no
+Packaged: 2018-02-27 12:43:05 UTC; alverhoi
+Built: R 3.3.3; ; 2020-05-30 18:04:23 UTC; unix
